@@ -3,6 +3,10 @@
  Name        : 15725581_Assignment4_Q2_CiaranConlon.c
  Author      : Ciaran Conlon 15725581
  Version     :
+ 
+ Much of the code was provided by the lecturer, including the haversine_m function. The purpose 
+ was to learn how to handle arrays of linked lists. As such, all code for the linked lists was written 
+ by me, as were the file read/write functions.
   ============================================================================
  */
 
