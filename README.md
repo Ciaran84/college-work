@@ -1,2 +1,2 @@
 # college-work
-My projects
+My projects from college
